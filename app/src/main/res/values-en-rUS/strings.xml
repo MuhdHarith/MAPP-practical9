@@ -14,58 +14,45 @@
   limitations under the License.
   -->
 <resources>
-    <string name="app_name">Bahan Saya!</string>
+    <string name="app_name">Material Me!</string>
     <string name="title_placeholder">Title</string>
-    <string name="news_label">Berita</string>
-    <string name="sports_info_placeholder">Inilah berita</string>
-    <string name="sports_image">Gambar Sukan</string>
-    <string name="filler_text">Apa yang kamu telah bercakap tentang saya, kamu anjing betina kecil?
-        Anda perlu tahu bahawa saya telah menerima ijazah tertinggi dalam kelas saya di Navy Seal,
-        dan saya telah terbabit dalam pelbagai serbuan rahsia atas al-Quaeda, dan saya ada lebih
-        daripada 300 bunuhan sah. Saya terlatih dalam peperangan gorilla dan saya sniper terhebat
-        daripada seluruh pasukan tentera US. Kamu bukan apa-apa kepada saya dan hanyalah sasaran.
-        Saya akan bunuh kamu semua dengan ketepatan yang tiada orang lain pernah lihat di bumi ini,
-        ingat ayat-ayat saya. Kamu ingat kamu boleh terlepas dengan berkata tentang perkara itu
-        tentang saya di internet? Fikir sekali lagi. Sepanjang kami berbual saya sedang menghubungi
-        rangkaian perisik-perisik rahsia sepanjang USA dan IP kamu sedang dikesan sekarang jadi kamu
-        harus bersedia untuk ribut yang akan datang, ulat. Ribut yang akan menyapu hidup kamu yang
-        tidak bermakna. Kamu akan mati, budak. Saya boleh berada di mana-mana, bila-bila masa dan
-        bunuh kamu lebih daripada 700 cara, dan itu hanya dengan menggunakan tangan saya. Bukan sahaja
-        saya terlatih dalam perlawanan tidak bersenjata, malah saya juga mempunyai akses kepada seluruh
-        arsenal Perbadanan Marin Amerika Syarikat dan saya akan guna dengan sepenuhnya untuk membunuh
-        punggungmu yang tidak bermakna daripada muka benua ini, si najis kecil. Kalaulah kamu tahu hukuman
-        tidak suci apa yang telah kamu punya komen 'pandai' akan membawa kepada kamu, mungkin kamu akan
-        tutup mulut anda. Tetapi kamu tidak mampu, kamu tidak boleh, dan sekarang kamu akan bayar, celaka
-        bodoh. Saya akan berak keganasan ke atas kamu dan kamu akan lemas dalamnya. Kamu akan mati, budak.
-
-</string>
+    <string name="news_label">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="sports_image">Sports Image</string>
+    <string name="filler_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+        vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+        odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+        tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+        massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+        molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+        posuere, bibendum id lorem.</string>
 
     <string-array name="sports_titles">
-        <item>Besbol</item>
+        <item>Baseball</item>
         <item>Badminton</item>
-        <item>Bola Keranjang</item>
+        <item>Basketball</item>
         <item>Bowling</item>
-        <item>Berbasikal</item>
+        <item>Cycling</item>
         <item>Golf</item>
-        <item>Berlari-lari Anak</item>
-        <item>Bola Sepak</item>
-        <item>Berenang</item>
-        <item>Pingpong</item>
-        <item>Tenis</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
     </string-array>
 
     <string-array name="sports_info">
-        <item>Inilah berita Besbol!</item>
-        <item>Inilah berita Badminton!</item>
-        <item>Inilah berita Bola Keranjang!</item>
-        <item>Inilah berita Bowling!</item>
-        <item>Inilah berita Berbaskl!</item>
-        <item>Inilah berita Golf!</item>
-        <item>Inilah berita Berlari-lari anak!</item>
-        <item>Inilah berita Bola Sepak!</item>
-        <item>Inilah berita Berenang!</item>
-        <item>Inilah berita Pingpong!</item>
-        <item>Inilah berita Tenis!</item>
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
     </string-array>
 
     <array name="sports_images">
